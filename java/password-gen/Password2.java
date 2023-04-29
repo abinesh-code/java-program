@@ -15,7 +15,7 @@ class Password2 {
 		String pass = "";
 
 		for(int i = 0; i < l; i++)
-			pass += arr.charAt(r.nextInt(36));
+			pass += arr.charAt(r.nextInt(arr.length()));
 
 		System.out.println("Generated password is: "+pass);
 	}
