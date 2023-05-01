@@ -7,7 +7,7 @@ Clone the repository to your local machine.
 
 bash
 Copy code
-``` git clone https://github.com/your-username/java-password-generator.git ```
+``` https://github.com/abinesh-code/java-programs.git ```
 Open the project in your preferred Java IDE.
 
 Build and run the project.
