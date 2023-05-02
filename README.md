@@ -1,25 +1,14 @@
 # java-programs
-
 Welcome to the Java Program Repository! This repository contains a collection of Java programs that demonstrate various concepts and techniques. Each program is contained in its own directory, with a unique name that reflects the purpose of the program.
 
-## Installation
-Clone the repository to your local machine.
+## Installation 
+To use this repository clone this repository using `git clone https://github.com/abinesh-code/java-programs.git`
 
-bash
-Copy code
-``` https://github.com/abinesh-code/java-programs.git ```
-Open the project in your preferred Java IDE.
-
-Build and run the project.
-
-## Usage
-To use the java files in this repository, simply run the file_name.java file in your Java IDE
-
-## Contribution
+# Contribution 
 If you'd like to contribute to this repository, please fork the repository and create a new branch for your changes. Once you've made your changes, submit a pull request and we'll review your changes.
 
-## License
+# License 
 This repository is licensed under the MIT license. See the LICENSE file for more details.
 
-## Contact 
-If you have any questions or comments, please feel free to contact us at `abinesr8525@gmail.com`
+# Contact 
+If you have any questions or comments, please feel free to contact us at `abineshr8525@gmail.com`
