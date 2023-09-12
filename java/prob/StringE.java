@@ -1,5 +1,3 @@
-package oop;
-
 public class StringE {
     public static void main(String[] args) {
         String a = "ABINESH";

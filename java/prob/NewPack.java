@@ -1,5 +1,3 @@
-package oop;
-
 import java.text.MessageFormat;
 
 public class NewPack {
