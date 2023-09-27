@@ -1,6 +1,5 @@
-class A{
+import java.util.*;
 
-}
 public class Demo3 {
     public static void main(String[] args) {
         /*A e = new A();
@@ -9,16 +8,17 @@ public class Demo3 {
         System.out.println(printObject(e));
         System.out.println(printName(x));
         */
-        double a = 9.97;
-        var b = Math.round(a);
-        System.out.println(printName(b));
-        System.out.println(b);
+        //double a = 9.97;
+        //var b = Math.round(a);
+        //System.out.println(b);
+        List al = new ArrayList<>();
+        System.out.println(type(al));
     }
     public static String printObject(Object a) {
 
         return a.getClass().getName()+"@"+Integer.toHexString(a.hashCode());
     }
-    public static String printName(Object a) {
+    public static String type(Object a) {
 
         return a.getClass().getSimpleName();
     }
